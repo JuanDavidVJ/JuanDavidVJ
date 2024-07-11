@@ -7,6 +7,5 @@ I am an open source fanatic analyst and programmer, I like to program systems th
  
 <div> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
